@@ -1,5 +1,5 @@
 ["redis-brain.coffee", "tweet.coffee", "shipit.coffee", "animal.coffee",
- "cheer.coffee", "dice.coffee", "directions.coffee", "eight-ball.coffee",
+ "dice.coffee", "directions.coffee", "eight-ball.coffee",
  "faceup.coffee", "fibonacci.coffee", "gemwhois.coffee", "giftv.coffee",
  "google.coffee", "haters.coffee", "jenkins.coffee", "likeaboss.coffee",
  "location-decision-maker.coffee", "lolz.coffee", "meme_generator.coffee",
